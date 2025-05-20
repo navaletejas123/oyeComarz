@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/shopifyPlus/page": "app/shopifyPlus/page.js",
+  "/who-we-are/page": "app/who-we-are/page.js",
+  "/contact/page": "app/contact/page.js"
+}
